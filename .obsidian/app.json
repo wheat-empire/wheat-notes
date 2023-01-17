@@ -4,5 +4,7 @@
   "showLineNumber": true,
   "foldHeading": false,
   "foldIndent": false,
-  "livePreview": false
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }
