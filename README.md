@@ -14,7 +14,7 @@ We make stuff on this repo.
 
 - [ ] Learn HTML (better)
 - [ ] Learn CSS (better)
-- [ ] Learn JavaScript
+- [ ] Learn [[JavaScript]]
 
 ### Better Website Skills
 
