@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "038c595f75be5c38",
+            "id": "bf869cb9618c0c5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/JavaScript Journal.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "01cb3d565ee7e498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS in HTML.md",
+                "file": "notes/JS/JavaScript Journal.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/JavaScript Journal.md",
+                "file": "notes/JS/JavaScript Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/JavaScript Journal.md",
+                "file": "notes/JS/JavaScript Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/JavaScript Journal.md"
+                "file": "notes/JS/JavaScript Journal.md"
               }
             }
           },
@@ -179,13 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "038c595f75be5c38",
+  "active": "bf869cb9618c0c5a",
   "lastOpenFiles": [
-    "Readable Code Pls.md",
-    "notes/JavaScript Journal.md",
-    "JS in HTML.md",
+    "notes/JS/JS Variables.md",
+    "notes/JS/JavaScript Journal.md",
+    "notes/JS/JavaScript.md",
     "README.md",
-    "What is JavaScript.md",
-    "notes/JavaScript.md"
+    "notes/JS/JS in HTML.md",
+    "notes/JS/Readable Code Pls JS.md",
+    "notes/JS/What is JavaScript.md"
   ]
 }
