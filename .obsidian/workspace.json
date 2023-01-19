@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/JS/JavaScript Journal.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/JS/JavaScript Journal.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/JS/JavaScript Journal.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/JS/JavaScript Journal.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,12 +169,14 @@
   },
   "active": "bf869cb9618c0c5a",
   "lastOpenFiles": [
-    "notes/JS/JS Variables.md",
+    "notes/JS/Data Types JS.md",
     "notes/JS/JavaScript Journal.md",
-    "notes/JS/JavaScript.md",
-    "README.md",
+    "notes/JS/What is JavaScript.md",
     "notes/JS/JS in HTML.md",
     "notes/JS/Readable Code Pls JS.md",
-    "notes/JS/What is JavaScript.md"
+    "notes/JS/JS Variables.md",
+    "notes/JS/Modal Types.md",
+    "README.md",
+    "notes/JS/JavaScript.md"
   ]
 }

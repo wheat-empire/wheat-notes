@@ -1,0 +1,16 @@
+- There are 8 data-types
+	- Number
+	- BigInt
+	- String
+	- Boolean
+	- "null"
+	- "undefined"
+	- Object
+	- Symbol
+- Number is integers and floats. All in the same
+- BigInt is for very big numbers.
+- String is for text
+- Boolean is true or false
+- null is intentional
+- undefined is not. Oops. NaN is the same for numbers
+- Objects and something, and so is symbol.
