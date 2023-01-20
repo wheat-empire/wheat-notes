@@ -1,4 +1,4 @@
-> [!NOTE] From Christian
+> [!NOTE] From C
 > Here is a resource list:
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript

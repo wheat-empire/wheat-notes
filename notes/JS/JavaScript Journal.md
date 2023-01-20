@@ -8,7 +8,7 @@
 - [[JS Variables]]
 - Use `"use strict"` at the top of the code. Why? Common practice it seems.
 
-## 2023-01-19
+## 2023-01-18
 
 - The alert mentioned earlier is a [[Modal Types]]. We probably shouldn't use it to tell the people stuff 'cause it's intrusive but it's good for debugging and learning. - C
 - `` ` ``  is the better `"` and `'`. It allows you to use `${var1}` syntax, and that's epic.
@@ -35,4 +35,9 @@ const yourAge = prompt("What's your age?", 0);
 ```
 
 - See [[Data Types JS]]
-- 
+
+## 2023-01-19
+
+- [[Mathematics in JS]]
+- As always, there are [[If Equations in JS]]
+- Just to clear things up, check what is [[True and False in JS]] - C
