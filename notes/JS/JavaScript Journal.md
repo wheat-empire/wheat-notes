@@ -40,4 +40,7 @@ const yourAge = prompt("What's your age?", 0);
 
 - [[Mathematics in JS]]
 - As always, there are [[If Equations in JS]]
+	- Comes hand in hand with [[Logic Operators in JS]]
 - Just to clear things up, check what is [[True and False in JS]] - C
+- There is the [[Other If in JS]]
+- [[While Loops in JS]]
