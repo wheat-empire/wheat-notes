@@ -44,3 +44,11 @@ const yourAge = prompt("What's your age?", 0);
 - Just to clear things up, check what is [[True and False in JS]] - C
 - There is the [[Other If in JS]]
 - [[While Loops in JS]]
+
+## 2023-01-23
+
+- [[For Loops in JS]] are the better [[While Loops in JS]]
+- Guilty of not getting any work done ;) - C
+
+## 2023-01-25
+- [[Loop Breaks in JS]]
