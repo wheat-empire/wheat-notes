@@ -51,4 +51,15 @@ const yourAge = prompt("What's your age?", 0);
 - Guilty of not getting any work done ;) - C
 
 ## 2023-01-25
+
 - [[Loop Breaks in JS]]
+
+## 2023-01-27
+
+- Finally got through https://javascript.info/ fundamentals. It took a while for sure.
+	- Still got to write the notes though :-(
+- Instead of [[If Equations in JS]], you could also do [[Oneline If JS]]
+	- Also can do [[Switch Syntax]]
+- You also use [[Loop Labels]] for high-level `break`
+- Also, the very useful [[Function]]
+	- It's pretty long - C
